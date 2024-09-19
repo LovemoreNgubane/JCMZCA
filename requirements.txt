@@ -1,0 +1,6 @@
+opencv-python-headless
+camelot-py
+ghostscript
+streamlit
+pytesseract
+tesseract-ocr
